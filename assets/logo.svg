@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" fill="none">
+  <defs>
+    <linearGradient id="v2s-grad" x1="16" y1="16" x2="112" y2="112" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#2563EB"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="26" fill="#0B1120" stroke="url(#v2s-grad)" stroke-width="4"/>
+  <!-- Video play triangle on left -->
+  <path d="M36 42L60 64L36 86V42Z" fill="url(#v2s-grad)"/>
+  <!-- Skill document / chevron lines on right -->
+  <path d="M72 44H94M72 64H94M72 84H86" stroke="#E2E8F0" stroke-width="6" stroke-linecap="round"/>
+</svg>
